@@ -1,6 +1,7 @@
 # MyClone
 
 Java Project with output to console.
+
 My first Java project ever, after avoiding Java until the 20th anniversary of the language.
 
 Creates a virtual world that takes a users name, introduces the application,
